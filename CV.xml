@@ -1,0 +1,14 @@
+<xml>
+	<Personal_Details gender="male">
+		<name>Sujithaan Yoganathan</name>
+	</Personal_Details>
+	<Jobs>
+		<job1>Trainee Software Consultant</job1>
+		<job2>Website Coordinator</job2>
+		<job3>Research Student Developer</job3>
+	</Jobs>
+	<Education>
+		<University>Queen Mary University of London</University>
+		<Course>Computer Science</Course>
+	</Education>	
+</xml>
